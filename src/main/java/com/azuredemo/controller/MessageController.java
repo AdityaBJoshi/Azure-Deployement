@@ -13,6 +13,6 @@ public class MessageController {
     @GetMapping
     public ResponseEntity<String> getMessage()
     {
-        return ResponseEntity.ok("Hello....");
+        return ResponseEntity.ok("<h2>Hello Deployement is successful<h2>");
     }
 }
