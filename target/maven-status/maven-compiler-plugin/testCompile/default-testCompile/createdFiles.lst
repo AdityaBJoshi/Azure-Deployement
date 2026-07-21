@@ -1,0 +1,5 @@
+com\azuredemo\controller\MessageControllerWebMvcTest.class
+com\azuredemo\controller\MessageControllerIT.class
+com\azuredemo\controller\MessageControllerTest.class
+com\azuredemo\AzureDemoApplicationMainTest.class
+com\azuredemo\AzureDemoApplicationTests.class
